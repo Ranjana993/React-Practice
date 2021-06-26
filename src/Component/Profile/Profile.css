@@ -1,0 +1,42 @@
+.container{
+    display: flex;
+    
+}
+.userContainer{
+    display: inline-block;
+    flex-direction: column; 
+    border: 3px solid #522705;
+    margin: 0 10px;
+    padding: 25px;
+ 
+ }
+.profile-card{
+    background-color: #CAF7E3;
+    font-size: 19px;
+    border: 2px solid green;
+    padding: 20px;
+    width: 30rem;
+    margin: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    float: revert;
+
+
+}
+.profile-card h3{
+    font-size: 100%;
+    color: blue;
+    
+}
+
+.user-info .profile-cards{
+    background-color: #FF616D;
+    width: 30rem;
+    margin: 5rem;
+    padding: 10px;
+    height: 200px;
+    font-size: 23px;
+    text-align: center;
+    border: 2px solid black;
+}

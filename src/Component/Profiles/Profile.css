@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+    
+}
+.userContainer{
+    display: flex;
+    flex-direction: column; 
+    border: 2px solid #1687A7;
+    margin: 0 10px;
+    padding: 25px;
+ 
+ }
+.profile-card{
+    background-color: #A6D6D6;
+    font-size: 1rem;
+    width: 30rem;
+    margin: 10px 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+
+
+}
+.profile-card h3{
+    font-size: 100%;
+    
+}
+
+.user-info .profile-card{
+    background-color: #FF616D;
+}
